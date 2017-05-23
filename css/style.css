@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header.masthead{
+    background-image: url("../image/aaron-burden-211846.jpg");
+    background-image: url("../image/josh-felise-79991.jpg");
+}
