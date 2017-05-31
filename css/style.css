@@ -2,11 +2,22 @@
     /*margin: 0;*/
     /*padding: 0;*/
 /*}*/
-body{
-    width:100%;
-}
+/*body{*/
+    /*width:100%;*/
+/*}*/
 header.masthead{
     /*background-image: url("../image/aaron-burden-211846.jpg");*/
     background-image: url("../image/josh-felise-ForWeb.jpg");
-    padding: 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.locatie{
+    height: 50%;
+    background-image: url("../image/P4100187ForWeb.jpg");
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
